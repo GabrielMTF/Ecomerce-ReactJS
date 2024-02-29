@@ -81,7 +81,7 @@ export default async function ProductPage({ params }: ProductProps) {
                 </div>
 
                 <div className="mt-8 space-y-4">
-                    <span className="block font-semibold">Tamanhos</span>
+                    <span className="block font-semibold">Sizes</span>
 
                     <div className="flex gap-2">
                         <button

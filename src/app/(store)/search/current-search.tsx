@@ -9,7 +9,7 @@ export function CurrentSearch() {
 
     return (
         <p className="text-sm">
-            Resultados para: <span className="font-semibold">{query}</span>
+            Results for: <span className="font-semibold">{query}</span>
         </p>
     )
 }
