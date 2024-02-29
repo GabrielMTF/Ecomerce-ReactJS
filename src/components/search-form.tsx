@@ -18,8 +18,6 @@ export function SearchForm() {
 
     const query = data.q
 
-    console.log('cadela', query)
-
     if (!query) {
       return null
     }
